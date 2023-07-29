@@ -1,0 +1,17 @@
+[
+    {
+        "stock": "BANK_NIFTY",
+        "Today's_open": 45795.12,
+        "Current_Price": 45951.55
+    },
+    {
+        "stock": "NIFTY_50",
+        "Today's_open": 18774.27,
+        "Current_Price": 18495.24
+    },
+    {
+        "stock": "ADANI_PORT",
+        "Today's_open": 1530.55,
+        "Current_Price": 1448.44
+    }
+]
